@@ -1,0 +1,13 @@
+{
+  "name": "wefix-cutaway-test",
+  "region": "nyc1",
+  "services": [
+    {
+      "name": "web",
+      "github": {
+        "repo": "DaniilRezvitsky/cuteway",
+        "branch": "main"
+      }
+    }
+  ]
+}
